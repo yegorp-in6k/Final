@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jolap.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jakarta-oro-2.0.4.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/javacsv.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/junit.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jmi.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/ant-contrib.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/xbean.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/datasources.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/pmml.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/xmlbeans-qname.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/agents.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jsr173_1.0_api.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/mof.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/saxon9.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/algorithms.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/cwm.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jaxp-api.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/poi-3.0.2-FINAL-20080204.jar!/" />
+      <root url="jar://G:/Xelopes6.5_openSource/lib/jdm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
